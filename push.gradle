@@ -27,7 +27,7 @@ buildscript {
 			mavenLocal()
   }
   dependencies {
-      classpath 'com.android.tools.build:gradle:+'
+      classpath 'com.google.gms:google-services:2.1.2'
       classpath 'com.google.gms:google-services:3.0.0'
   }
 }
